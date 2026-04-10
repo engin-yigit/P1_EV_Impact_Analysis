@@ -1,0 +1,6 @@
+﻿Szenario,EV-Anteil,EV,GF,Platzierung,EV-Last [kW],Trafo [%],Max. Leitung [%],Min. U [pu],Bewertung
+S0 — Referenzfall,0.0,0,0.0,verteilt,0.0,88.0,52.2,0.955,Unkritisch
+S1 — Moderate EV-Integration,0.2,12,0.3,verteilt,39.6,98.6,59.7,0.9482,Warnung
+S2 — Erhöhte EV-Integration,0.5,29,0.6,verteilt,191.4,139.6,82.9,0.9261,Kritisch
+S3 — Stressfall,0.8,46,1.0,Netzende,506.0,231.2,153.6,0.8631,Kritisch
+S3 — Mitigation (7 kW),0.8,46,1.0,Netzende,322.0,176.8,114.6,0.899,Kritisch

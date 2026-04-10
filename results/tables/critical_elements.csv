@@ -1,0 +1,16 @@
+﻿Szenario,Elementtyp,Element,Kenngröße,Wert
+S0 — Referenzfall,Transformator,trafo 1,Auslastung [%],88.0487
+S0 — Referenzfall,Leitung,line_3_1,Auslastung [%],52.21
+S0 — Referenzfall,Bus,loadbus_3_16,Spannung [pu],0.955
+S1 — Moderate EV-Integration,Transformator,trafo 1,Auslastung [%],98.5525
+S1 — Moderate EV-Integration,Leitung,line_3_1,Auslastung [%],59.6876
+S1 — Moderate EV-Integration,Bus,loadbus_3_16,Spannung [pu],0.9482
+S2 — Erhöhte EV-Integration,Transformator,trafo 1,Auslastung [%],139.5903
+S2 — Erhöhte EV-Integration,Leitung,line_3_1,Auslastung [%],82.8848
+S2 — Erhöhte EV-Integration,Bus,loadbus_3_16,Spannung [pu],0.9261
+S3 — Stressfall,Transformator,trafo 1,Auslastung [%],231.1809
+S3 — Stressfall,Leitung,line_3_1,Auslastung [%],153.6101
+S3 — Stressfall,Bus,loadbus_3_16,Spannung [pu],0.8631
+S3 — Mitigation (7 kW),Transformator,trafo 1,Auslastung [%],176.8479
+S3 — Mitigation (7 kW),Leitung,line_3_1,Auslastung [%],114.5962
+S3 — Mitigation (7 kW),Bus,loadbus_3_16,Spannung [pu],0.899

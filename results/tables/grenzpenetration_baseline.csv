@@ -1,0 +1,11 @@
+﻿EV-Anteil,EV,GF,Platzierung,Wallbox [kW],EV-Last [kW],Trafo [%],Max. Leitung [%],Min. U [pu],Bewertung
+0.1,6,0.6,verteilt,11,39.6,98.5,59.6,0.9499,Warnung
+0.2,12,0.6,verteilt,11,79.2,109.1,67.3,0.9414,Kritisch
+0.3,18,0.6,verteilt,11,118.8,119.7,71.1,0.939,Kritisch
+0.4,23,0.6,verteilt,11,151.8,128.7,75.0,0.9347,Kritisch
+0.5,29,0.6,verteilt,11,191.4,139.6,82.9,0.9261,Kritisch
+0.6,35,0.6,verteilt,11,231.0,150.4,86.8,0.9238,Kritisch
+0.7,40,0.6,verteilt,11,264.0,159.5,94.5,0.9188,Kritisch
+0.8,46,0.6,verteilt,11,303.6,170.7,102.6,0.9097,Kritisch
+0.9,52,0.6,verteilt,11,343.2,181.9,110.8,0.9019,Kritisch
+1.0,57,0.6,verteilt,11,376.2,191.2,114.9,0.8988,Kritisch

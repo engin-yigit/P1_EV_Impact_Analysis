@@ -1,0 +1,6 @@
+pandapower==3.2.1
+pandas==2.3.3
+numpy==2.2.6
+matplotlib==3.10.8
+ipython==9.8.0
+jupyterlab==4.5.6

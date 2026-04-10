@@ -1,0 +1,4 @@
+﻿Szenario,EV-Last [kW],Trafo [%],Max. Leitung [%],Min. U [pu],Bewertung
+S3 — Stressfall,506.0,231.1808609086662,153.61009555636826,0.8630697937114227,Kritisch
+S3 — Mitigation (7 kW),322.0,176.84793735977027,114.59622126638216,0.8990373782456753,Kritisch
+Δ Mitigation vs. Stressfall,-184.0,-54.332923548895934,-39.013874289986106,0.03596758453425264,Verbesserung sichtbar

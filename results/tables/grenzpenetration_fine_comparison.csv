@@ -1,0 +1,4 @@
+﻿Fall,Erste kritische EV-Penetration,EV,Wallbox [kW]
+Ohne Mitigation,0.12,7,11
+Mit Mitigation,0.18,11,7
+Δ Mitigation vs. ohne,0.06,4,-4
