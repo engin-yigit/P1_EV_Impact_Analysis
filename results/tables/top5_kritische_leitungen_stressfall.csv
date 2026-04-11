@@ -1,0 +1,6 @@
+﻿Rang,Leitung,Referenzfall [%],Stressfall [%],Differenz [%-Pkt.],Kritisch (>100 %)
+1,line_3_1,52.2,153.6,101.4,Ja
+2,line_3_2,49.0,150.3,101.3,Ja
+3,line_3_3,45.8,140.8,95.0,Ja
+4,line_3_4,42.6,131.2,88.7,Ja
+5,line_3_5,39.3,121.5,82.2,Ja
