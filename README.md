@@ -195,11 +195,11 @@ Für die Reproduzierbarkeit des Projekts werden Python, Jupyter Notebook und die
 
 Empfohlene Schritte zur Reproduktion:
 
-Repository lokal klonen
-Abhängigkeiten aus requirements.txt installieren
-Das Notebook notebooks/P1_EV_Impact_Analysis.ipynb öffnen
-Alle Zellen in Reihenfolge ausführen
-Exportierte Tabellen und Abbildungen in results/ prüfen
+1. Repository lokal klonen
+2. Abhängigkeiten aus `requirements.txt` installieren
+3. Das Notebook `notebooks/P1_EV_Impact_Analysis.ipynb` öffnen
+4. Alle Zellen in Reihenfolge ausführen
+5. Exportierte Tabellen und Abbildungen in `results/` prüfen
 
 Die Analyse ist so aufgebaut, dass zentrale Tabellen und Abbildungen direkt aus dem Notebook heraus exportiert werden können.
 
