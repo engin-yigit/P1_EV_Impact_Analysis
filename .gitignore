@@ -13,3 +13,19 @@ env/
 # OS files
 .DS_Store
 Thumbs.db
+
+# LaTeX build files (only for results/reports)
+results/reports/*.aux
+results/reports/*.log
+results/reports/*.out
+results/reports/*.synctex.gz
+results/reports/*.bbl
+results/reports/*.blg
+results/reports/*.fls
+results/reports/*.fdb_latexmk
+results/reports/*.toc
+results/reports/*.lof
+results/reports/*.lot
+results/reports/*.nav
+results/reports/*.snm
+results/reports/*.vrb
