@@ -17,7 +17,7 @@ The project is designed as a GitHub-ready engineering portfolio study with repro
 ### Grenzpenetration in Bezug auf die Transformatorauslastung
 ![Grenzpenetration: Transformatorauslastung](results/figures/grenzpenetration_trafo_baseline.png)
 
-Diese Abbildung zeigt, ab welchem Bereich die Transformatorauslastung in der Baseline-Grenzpenetrationsanalyse kritisch wird.
+Diese Abbildung zeigt die **grobe** Baseline-Grenzpenetrationsanalyse in **10-%-Schritten**. Die markierte kritische Grenze liegt in dieser Voranalyse bei **20 %**. Die anschließende Feinauflösung im Bereich **10 % bis 30 %** zeigt jedoch, dass die erste kritische Grenze bereits bei ca. **12 %** ohne Mitigation bzw. bei ca. **18 %** mit 7-kW-Mitigation beginnt.
 
 ### Spannungsprofil im Referenzfall und Stressfall
 ![Spannungsprofil: Referenzfall vs. Stressfall](results/figures/spannungsprofil_ref_vs_stress.png)
