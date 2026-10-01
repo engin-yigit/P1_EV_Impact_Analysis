@@ -1,4 +1,4 @@
-# P1_EV_Impact_Analysis
+# EV Impact Analysis in a Low-Voltage Distribution Grid
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![pandapower](https://img.shields.io/badge/pandapower-3.2.1-orange)
@@ -215,10 +215,10 @@ Damit liefert das Projekt nicht nur eine reine Szenarioanalyse, sondern eine kom
 
 Mögliche fachliche Erweiterungen des Projekts wären:
 
-zeitabhängige Lastprofile statt rein stationärer Szenarien
-weiterführende Analyse der maßgebenden Leitungen und Knoten
-kombinierte Betrachtung von EV- und PV-Einspeisung
-vereinfachte trafoorientierte Regelstrategie als weiterführender Mitigation-Ansatz
-Übertragung des methodischen Rahmens auf weitere Netzmodelle
+- zeitabhängige Lastprofile statt rein stationärer Szenarien
+- weiterführende Analyse der maßgebenden Leitungen und Knoten
+- kombinierte Betrachtung von EV- und PV-Einspeisung
+- vereinfachte trafoorientierte Regelstrategie als weiterführender Mitigation-Ansatz
+- Übertragung des methodischen Rahmens auf weitere Netzmodelle
 
 Im aktuellen Stand ist das Projekt jedoch bewusst auf eine erste, technisch belastbare und GitHub-taugliche Portfoliofassung begrenzt.
